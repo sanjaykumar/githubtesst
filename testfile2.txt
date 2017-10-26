@@ -1,1 +1,2 @@
-this is fileText2 and added first line 
+ileText2 and added first line 
+thhis is new line added
